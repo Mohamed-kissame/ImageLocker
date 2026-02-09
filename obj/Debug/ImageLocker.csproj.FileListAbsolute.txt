@@ -1,0 +1,13 @@
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\bin\Debug\ImageLocker.exe.config
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\bin\Debug\ImageLocker.exe
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\bin\Debug\ImageLocker.pdb
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\bin\Debug\Guna.UI2.dll
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\obj\Debug\ImageLocker.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\obj\Debug\ImageLocker.Form1.resources
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\obj\Debug\ImageLocker.Properties.Resources.resources
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\obj\Debug\ImageLocker.csproj.GenerateResource.cache
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\obj\Debug\ImageLocker.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\obj\Debug\ImageLoc.142B2F79.Up2Date
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\obj\Debug\ImageLocker.exe
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\obj\Debug\ImageLocker.pdb
+C:\Users\mkiss\OneDrive\Bureau\Projects\ImageLocker\obj\Debug\ImageLocker.exe.config
